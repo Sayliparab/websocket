@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "chart.js": "^4.4.0",
-    "chartjs-adapter-dayjs": "^1.0.0"
-  }
-}
